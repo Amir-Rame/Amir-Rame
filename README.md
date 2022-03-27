@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Amir-Rame
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning Nodejs.
+- 💞️ I’m looking to collaborate on any front-end projects (html,css,js,react).
+- 📫 How to reach me: amirhosseinrame@gmail.com
